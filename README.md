@@ -3,7 +3,6 @@
 **Android Malware Detection via Sonification and Deep Learning**
 
 Master's thesis (1st level Master in Cyber Security), Università di Pisa, Department of Information Engineering, A.Y. 2024/2025
-Candidate: Enrico Dolce · Lecturer: Dott. Giovanni Ciaramella
 
 ## Overview
 
